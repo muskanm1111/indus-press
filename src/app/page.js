@@ -1,6 +1,6 @@
 import Chooseus from "@/components/chooseus";
 import Engineers from "@/components/engineers";
-import Footer from "@/components/footer";
+
 import Home1 from "@/components/home1";
 import Projects from "@/components/projects";
 import Service from "@/components/service";
@@ -16,7 +16,7 @@ export default function Home() {
       <Projects />
       <Engineers />
       <Chooseus />
-      <Footer/>
+      
     </>
   );
 }
